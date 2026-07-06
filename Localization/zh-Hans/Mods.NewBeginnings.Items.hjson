@@ -24,7 +24,7 @@ LumberjackAxe: {
 
 LumberjackFlannel: {
 	DisplayName: 伐木工的绒衬衫
-	Tooltip: "“极致舒适”"
+	Tooltip: “极致舒适”
 }
 
 DeprivedBlade: {
@@ -34,7 +34,7 @@ DeprivedBlade: {
 
 KylieBoomerang: {
 	DisplayName: 木质回飞棒
-	Tooltip: "“在战斗中出乎意料的有效”"
+	Tooltip: “在战斗中出乎意料的有效”
 }
 
 RustyCutlass: {
@@ -49,5 +49,5 @@ WornSpellbook: {
 
 TrailblazerHelmet: {
 	DisplayName: 开拓者头盔
-	Tooltip: "“神速！”"
+	Tooltip: “神速！”
 }

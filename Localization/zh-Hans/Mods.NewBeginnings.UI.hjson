@@ -37,12 +37,12 @@ Splash: {
 	35: 在大多数零下30摄氏度以上的温度下安全！
 	36: “面试？为了什么？”——向导
 	37: 生来为选择出身，却被逼为纯净之人！
-	38: '''“新起点？那是什么？”——Andrew "Redigit" Spinks'''
+	38: “新起点？那是什么？”——Andrew "Redigit" Spinks
 	39: 倾听你最喜欢的音乐类型！
 }
 
 SortBy: {
-	Line: "按{0}排序"
+	Line: 按{0}排序
 	Default: 默认
 	Difficulty: 难度
 	DifficultyReverse: 难度（反向）
